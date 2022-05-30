@@ -13,9 +13,14 @@ Thành viên:
 
 Mô tả  hệ thống: Wesite bán giày 
 
-    Khách hàng:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm(khi đã đăng nhập nếu chưa đăng nhập chuyển qua màn hình đăng nhập), thay đổi thông tín cá nhân và mật khẩu của tài khoản.
+        Khách hàng:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang,
+    xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm(khi đã đăng nhập nếu chưa đăng nhập chuyển qua màn hình đăng nhập),
+    thay đổi thông tín cá nhân và mật khẩu của tài khoản.
+    
   
-    Admin:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật khẩu của tài khoản, quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
+        Admin:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, 
+    xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật
+    khẩu của tài khoản,quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
 
 Giao diện:
 
