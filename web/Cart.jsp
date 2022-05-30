@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Cart
-    Created on : Oct 31, 2020, 9:42:21 PM
-    Author     : trinh
---%>
+
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
