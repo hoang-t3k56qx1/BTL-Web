@@ -8,7 +8,7 @@ Thành viên:
 
 -	Lê Huy Hoàng-B19DCCN275 (nhóm trưởng):  Viết java về đối tượng Catalog, User, Product, Cart, Item, OrderLine, Order. Xử lí  tìm kiếm sản phẩm theo tên, trang xem chi tiết sản phẩm  , giỏ hàng và thanh toán , và admin thêm sửa xóa sản phẩm.
 
--	Hà Duyên Hùng-B19DCCN293: Kết nối database và viết các hàm lấy dữ liệu từ SQL server đồng thời xử lí , đăng kí tài khoản và đăng nhập.
+-	Hà Duyên Hùng-B19DCCN293: Tạo cơ sở dữ liệu , Kết nối database và viết các hàm lấy dữ liệu từ SQL server đồng thời xử lí , đăng kí tài khoản và đăng nhập.
 
 
 -	Lê Văn Thằng_B19DCCN658: Làm trang chủ bao gồm: load tất cả sản phẩm, phân loại sản phẩm khi click vào từng mục, lấy ra sản phẩm mới nhất, xử trang sửa thông tin cá nhân và đổi mật khẩu.
