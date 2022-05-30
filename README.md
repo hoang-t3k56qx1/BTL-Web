@@ -3,6 +3,7 @@ Bài tập lớn website bán giày nhóm 14
 
 
 Thành viên:
+
 -	Lê Huy Hoàng-B19DCCN275 (nhóm trưởng):  Viết java về đối tượng Catalog, User, Product, Cart, Item, OrderLine, Order. Xử lí  tìm kiếm sản phẩm theo tên, trang xem chi tiết sản phẩm  , giỏ hàng và thanh toán , và admin thêm sửa xóa sản phẩm.
 
 -	Hà Duyên Hùng-B19DCCN293: Kết nối database và viết các hàm lấy dữ liệu từ SQL server đồng thời xử lí , đăng kí tài khoản và đăng nhập.
@@ -11,14 +12,16 @@ Thành viên:
 -	Lê Văn Thằng_B19DCCN658: Làm trang chủ bao gồm: load tất cả sản phẩm, phân loại sản phẩm khi click vào từng mục, lấy ra sản phẩm mới nhất, xử trang sửa thông tin cá nhân và đổi mật khẩu.
 
 Mô tả  hệ thống: Wesite bán giày 
-Khách hàng:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm(khi đã đăng nhập nếu chưa đăng nhập chuyển qua màn hình đăng nhập), thay đổi thông tín cá nhân và mật khẩu của tài khoản.
-Admin:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật khẩu của tài khoản, quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
+
+    Khách hàng:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm(khi đã đăng nhập nếu chưa đăng nhập chuyển qua màn hình đăng nhập), thay đổi thông tín cá nhân và mật khẩu của tài khoản.
+  
+    Admin:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật khẩu của tài khoản, quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
 
 Giao diện:
 
 ![image](https://user-images.githubusercontent.com/92375121/170964745-6be3d51a-1771-4382-9822-0cf258ee06d2.png)
 
-                      Hình 1 Trang chủ khi chưa đang nhập
+                      Hình 1 Trang chủ khi chưa đăng nhập
                       
 ![image](https://user-images.githubusercontent.com/92375121/170964849-8e915439-b4d4-4aa5-a5f1-ce0b251fbcfb.png)
 
