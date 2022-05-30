@@ -23,6 +23,20 @@ Mô tả  hệ thống: Wesite bán giày
         Admin:Xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, 
     xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật
     khẩu của tài khoản,quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
+    
+Use case hệ thống:
+
+![image](https://user-images.githubusercontent.com/92375121/171005713-fe6390e1-ec9f-4617-bb90-63aad68f7cfa.png)
+
+                UseCase hệ thống
+
+![image](https://user-images.githubusercontent.com/92375121/171005809-b92435c7-3e42-4d3b-a26b-ae608d871118.png)
+
+                UseCase mua hàng
+
+![image](https://user-images.githubusercontent.com/92375121/171005828-127f8754-c559-4420-acf2-07580d049511.png)
+
+                UseCase Quản lí sản phẩm
 
 Giao diện:
 
