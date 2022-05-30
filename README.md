@@ -18,7 +18,7 @@ Mô tả  hệ thống: Wesite bán giày
     thay đổi thông tín cá nhân và mật khẩu của tài khoản.
     
   
-        Admin:Đăng kí tài khoản, xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, 
+        Admin:Xem sản phẩm , tìm kiếm sản phẩm theo tên, phân loại sản phẩm theo hang, 
     xem chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng, mua sản phẩm, thay đổi thông tín cá nhân và mật
     khẩu của tài khoản,quyền thêm sản phẩm, sửa sản phẩm, xóa sản phẩm.
 
