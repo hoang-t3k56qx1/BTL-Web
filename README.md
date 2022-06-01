@@ -26,15 +26,15 @@ Mô tả  hệ thống: Wesite bán giày
     
 Use case hệ thống:
 
-![image](https://user-images.githubusercontent.com/92375121/171005713-fe6390e1-ec9f-4617-bb90-63aad68f7cfa.png)
+![image](https://user-images.githubusercontent.com/92375121/171317347-04e26e5b-375e-4989-be88-ccf27bccd2f0.png)
 
                 UseCase hệ thống
 
-![image](https://user-images.githubusercontent.com/92375121/171005809-b92435c7-3e42-4d3b-a26b-ae608d871118.png)
+![image](https://user-images.githubusercontent.com/92375121/171317384-21fcce91-95b8-4a9c-b6a9-ae2f1fb52164.png)
 
                 UseCase mua hàng
 
-![image](https://user-images.githubusercontent.com/92375121/171005828-127f8754-c559-4420-acf2-07580d049511.png)
+![image](https://user-images.githubusercontent.com/92375121/171317444-76fe141d-584e-40b5-a605-7fc8d5e91c8c.png)
 
                 UseCase Quản lí sản phẩm
 
